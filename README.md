@@ -1,4 +1,7 @@
-## Hi there 👋
+## About me
+
+Former investment banker now working in enterprise technology.
+Learning & working on interesting projects related to enterprise AI (agentic workflows, RAG, fine-tuning).
 
 <!--
 **mchitturu/mchitturu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
